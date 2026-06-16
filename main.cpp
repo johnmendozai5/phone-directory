@@ -13,7 +13,5 @@ int main(){
 
     // PRINT THE U.S LINE
     std::cout << "U.S.    +1 (" << areaCode << ")" << prefix << "-" << linNumber << std::endl;
-
-
-
+    std::cout << "Brazil  +55 (" << areaCode << ")" << (prefix + 100) << "-" << linNumber << std::endl;
 }
