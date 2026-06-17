@@ -1,0 +1,8 @@
+# compiled executable
+phone
+
+# compiled object files
+*.o
+
+# macOS system files
+.DS_Store
